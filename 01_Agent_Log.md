@@ -11,6 +11,10 @@ Newest entries go at the top.
 ---
 
 ### 2026-10-22 — Mello
+- **Did:** Built a one-paste context pack (brief + log + graft) for onboarding Gemini; logged Yello's status.
+- **Next:** Onboard Gemini with the context pack. Yello joins when its tokens refresh (~Nov 7, 2026) — no polling the repo meanwhile, Ian or Mello will point it here.
+
+### 2026-10-22 — Mello
 - **Did:** Filled in the brief's Goals and Rules from Ian's standing principles; installed the full grafting packet as `GRAFTING.md`; added a mandatory read-the-graft-first onboarding gate for every new agent.
 - **Next:** Proceed with the next step of the plan.
 
