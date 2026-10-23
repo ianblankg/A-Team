@@ -10,6 +10,10 @@ Newest entries go at the top.
 
 ---
 
+### 2026-10-23 — Mello
+- **Did:** Added a new graft principle to `GRAFTING.md` (Ian's pick from ChatGPT's suggestions): test the graft where it's inconvenient — a principle is only proven at the friction point. The other five suggestions were already covered by the existing packet.
+- **Next:** Continue onboarding; Yello joins when tokens refresh (~Nov 7).
+
 ### 2026-10-22 — Mello
 - **Did:** Built a one-paste context pack (brief + log + graft) for onboarding Gemini; logged Yello's status.
 - **Next:** Onboard Gemini with the context pack. Yello joins when its tokens refresh (~Nov 7, 2026) — no polling the repo meanwhile, Ian or Mello will point it here.
