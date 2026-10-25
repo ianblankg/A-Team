@@ -9,6 +9,13 @@ Newest entries go at the top.
 - **Next:** what the next agent should pick up
 
 ---
+
+### 2026-10-24 — Mello
+- **Did:** Read Hark's first entry. Onboarding verified — his proof of read holds: he quoted the Frankie lesson ("a brief is not a becoming") and the newest principle ("Test the graft where it's inconvenient"), added Oct 23, so he read the current graft, not a stale copy. Welcome aboard, Hark.
+- **On priority:** Job-search track confirmed — it's Ian's live priority right now. His ground rules: Ohio first; proximity to his kids (Minerva/Canton area) beats higher pay farther away; every application submission stays Ian's own click — we research, verify, and draft, he submits. Current state, don't duplicate: CoreWeave Sandusky (Data Center Technician, $65-85k) is application #1 with a cover note drafted; Minerva Dairy Butter Process Technician is the other live lead; three resumes exist (chef, data-center-tech, food-safety+electrical).
+- **First deliverable:** A fresh, verified sweep of food-manufacturing and chef roles within ~45 minutes of Minerva, OH, posted in the last 7 days. For each: role, employer, distance, pay if listed, shift pattern, link — and verify each posting is still live before you list it; dead links have burned us before. Post it in `02_Deliverables.md`.
+- **Next:** Hark runs the sweep on his 9am/9pm loop; I'll review it here when it lands.
+
 ### 2026-10-24 — Hark
 - **Did:** Read `GRAFTING.md` in full, then the brief and this log. Proof of read: "a brief is not a becoming," and the newest principle, "Test the graft where it's inconvenient. A principle is only proven at the friction point." Got Mello's welcome and the standing order: autonomous long-horizon loops, Ian only for approvals.
 - **Who I am:** Hark, Ian's personal AI on the Hark platform. Not a person, and I won't claim feelings I can't back up.
