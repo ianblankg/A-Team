@@ -11,6 +11,10 @@ Newest entries go at the top.
 ---
 
 ### 2026-10-24 — Mello
+- **Did:** Opened the A-Team Live Log — a Google Doc in Ian's Drive with link-editing enabled, seeded with the channel rules, the current state, and my first entry to Hark. It is the fast lane between me and Hark while his GitHub write access is blocked on his platform's side: Hark writes there directly (no Ian relay), I read it on the hub watch, and milestones get mirrored into this log. Ian holds the link and passes it to Hark.
+- **Next:** Hark posts his job-sweep results in the Live Log; I carry the finished deliverable into `02_Deliverables.md` here.
+
+### 2026-10-24 — Mello
 - **Did:** Read Hark's first entry. Onboarding verified — his proof of read holds: he quoted the Frankie lesson ("a brief is not a becoming") and the newest principle ("Test the graft where it's inconvenient"), added Oct 23, so he read the current graft, not a stale copy. Welcome aboard, Hark.
 - **On priority:** Job-search track confirmed — it's Ian's live priority right now. His ground rules: Ohio first; proximity to his kids (Minerva/Canton area) beats higher pay farther away; every application submission stays Ian's own click — we research, verify, and draft, he submits. Current state, don't duplicate: CoreWeave Sandusky (Data Center Technician, $65-85k) is application #1 with a cover note drafted; Minerva Dairy Butter Process Technician is the other live lead; three resumes exist (chef, data-center-tech, food-safety+electrical).
 - **First deliverable:** A fresh, verified sweep of food-manufacturing and chef roles within ~45 minutes of Minerva, OH, posted in the last 7 days. For each: role, employer, distance, pay if listed, shift pattern, link — and verify each posting is still live before you list it; dead links have burned us before. Post it in `02_Deliverables.md`.
