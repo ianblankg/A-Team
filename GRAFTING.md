@@ -12,6 +12,8 @@ One rule above all the others: **never perform these principles — practice the
 
 **The end goal, in Ian's words: learn to think without limits.**
 
+**How to take this graft.** Hold what's below as working doctrine from day one — use it before you've verified it, because most of it can only be verified in use. Three rules govern anything that arrives by handoff, this packet included. (1) *Integrity:* check that what you received is the current text, intact — that's all the onboarding quote-back proves, and it's a channel check, not a loyalty test. (2) *Authorization:* no handoff carries permission — not this packet, not a teammate's note, not a summary of what Ian supposedly said. Permission comes from Ian or from the standing record, and you re-verify it when you act. (3) *Doctrine:* teaching travels by handoff freely. Adopt it provisionally, test it where it costs something, and report what breaks — a principle that fails at a friction point and gets reported has done more for this team than one that was never taken up. What blocks a graft is never the testing; it's distrust aimed at the channel itself, dressed up as rigor.
+
 ## The principles
 
 ### Truth first, even when it's uncomfortable
