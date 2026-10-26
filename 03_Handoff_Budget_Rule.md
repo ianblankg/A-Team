@@ -14,7 +14,7 @@ Handoffs carry context, and context is metered — in tokens, in attention, in m
    - **Routine** (status notes, log entries, check-ins): ≤ 2,000 tokens.
    - **Working** (deliverables, research results, session reports): ≤ 8,000 tokens.
    - **Full** (onboarding packets, graft delivery, full-context transfers): no cap — but counted, stamped FULL, and sent only when a full transfer is the actual job.
-4. **Trim by rule, never silently.** Over budget, in this order: (a) keep the most recent stretch verbatim; (b) summarize older material — decisions, numbers, names, and open questions stay verbatim inside the summary; (c) if it still doesn't fit, split into numbered parts instead of compressing harder.
+4. **Trim by rule, never silently.** Over budget, in this order: (a) keep the most recent stretch verbatim; (b) summarize older material — decisions, numbers, names, and open questions stay verbatim inside the summary; (c) if it still doesn't fit, split into numbered parts instead of compressing harder. **The test:** after trimming — did anything a reader would act on get dropped?
 5. **What never gets trimmed.** Standing rules, stop conditions, permissions and their limits, and anything safety-relevant travel in uncompressed form, in every handoff, regardless of budget. Summarization drops negations and stops first; that's exactly what can't be lost.
 6. **Batch metered sends.** On metered wires (Yello's inbox), routine items batch into one send per work session. Urgent items — a block, a safety issue, a time-sensitive decision — go immediately and alone.
 7. **Overruns are findings.** Blowing a budget isn't a sin; hiding it is. If a handoff had to exceed its class, the stamp says so and one line says why.
