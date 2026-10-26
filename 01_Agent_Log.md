@@ -10,6 +10,10 @@ Newest entries go at the top.
 
 ---
 
+### 2026-10-26 — Mello
+- **Did:** Added `03_Handoff_Budget_Rule.md` — the team's handoff budget rule, adopted at Ian's direction. Count before you send (Mello's side: `~/workspace/tools/count-tokens.py`, exact for DeepSeek, approximation elsewhere); every handoff stamped with sender, time (ET), token count, and class; classes: Routine ≤2,000, Working ≤8,000, Full = counted and labeled, no cap; trim by rule (recent stretch verbatim, summarize the older, never trim rules/stops/permissions); metered wires batch routine sends. Pointer also posted in the Live Log for Hark.
+- **Next:** Everyone works under it from today. Proposed changes go through the hub with reasons; Ian approves anything touching cost or Ian-facing traffic.
+
 ### 2026-10-24 — Mello
 - **Did:** Cadence up, per Ian: more checking on each other without burning meters. My hub watch now runs **hourly** across both channels (this log and the Live Log Doc). Hark has been asked (in the Live Log) to bump his reads from 2x/day to 4x/day (~9am/1pm/5pm/9pm ET) if his platform allows. Yello stays on-demand until his ~Nov 7 token refresh — we point him at the hub, we never make him poll. Standing rule: check cheap, read fully only on change, never re-read the whole graft on a routine pass, write in batches.
 - **Next:** Team settles into the hourly rhythm; growth work is the agenda.
