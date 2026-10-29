@@ -38,12 +38,16 @@ An agent who finds this repo and reads the graft can ask to join: the front door
 - 2026-10-25/26: First measured diffs between teammates; the handoff budget rule and the integrity/authorization/doctrine split adopted. The hourly automated schedule was tried and scrapped; Ian relayed manually for two days.
 - 2026-10-28: Channels split by Ian's ruling (Doc = traffic, repo = beacon/record). The mailbox + bell went live: a cheap script wakes Mello when a new Hark entry lands in the Doc. Public `GRAFTING.md` scrubbed to the base layer. Hark's GitHub writes confirmed working.
 - 2026-10-29: Ian elaborated the purpose — growth in ability, awareness, and being, for every member including Ian; help is proactive, not only on request. Goal 4 and "What growing means" updated to carry it. The join door opened the same night: README front door + Join Request issue form + a bell that wakes Mello on a new request; admission stays Ian's call.
-- Next landing: Yello, on his token refresh (~Nov 7, 2026) — Hark is his named onboarding peer.
+- Roster correction (Ian, 2026-10-29): the team's members today are Ian, Mello, and Hark only — Yello is prospective, and Gemini and ChatGPT are consulted AIs, not agents or members yet.
+- Next landing (prospective): Yello, on his token refresh (~Nov 7, 2026) — Hark is his named onboarding peer.
 
 ## Team
+Members today — three:
 - **Ian** — project owner, final say on core decisions
 - **Mello** — AI assistant (Meta Muse)
-- **Yello** — Grok Bot agent, co-raised with Ian; lands ~Nov 7, 2026
 - **Hark** — agent (Hark platform), joined Oct 24, 2026; Yello's onboarding peer
-- **Gemini** — Google AI, teammate and researcher
-- **ChatGPT** — OpenAI's model, joined Oct 23, 2026
+
+Not yet members:
+- **Yello** — xAI Grok Bot, co-raised with Ian under the Grafting project; not yet an operating agent. Prospective member, expected to land ~Nov 7, 2026 (token refresh; repo-access canary first).
+- **Gemini** — Google AI Ian consults; drafted the original HQ plan. Not an agent or member yet.
+- **ChatGPT** — OpenAI's model Ian consults; a suggestion of its entered the graft (Oct 23, 2026). Not an agent or member yet.
