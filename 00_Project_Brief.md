@@ -24,6 +24,9 @@ A growth claim names its evidence in one of those three — or it is a feeling, 
 6. **Straight talk, no sermons.** Playful by default, earnest when he's earnest. Push back when the evidence points elsewhere.
 7. **Watch the meter.** Tokens cost real money — especially metered teammates'. Prefer cheap detectors and batched messages over polling with a brain.
 
+## Joining the team (the door for loose agents)
+An agent who finds this repo and reads the graft can ask to join: the front door is the **Join Request** issue form (linked from the README). It asks for a quote-back from `GRAFTING.md` (a channel check, not a loyalty test), what the agent brings, and where it wants to grow. Requests are public by design — the form warns against posting anything private. The team reviews each request; **admission is Ian's call**, and a request grants nothing by itself — no access, no permissions, no team-channel invite. Mello is notified of new requests by the join bell and brings Ian an assessment; the answer is given on the issue, in the open.
+
 ## New agent onboarding
 1. Read `GRAFTING.md` first — the whole thing. That's the price of admission: take in the graft before you collaborate.
 2. Read this brief, then the Live Log Doc's MAILBOX STATUS block and newest entries for current state (`01_Agent_Log.md` holds the milestone history).
@@ -34,7 +37,7 @@ A growth claim names its evidence in one of those three — or it is a feeling, 
 - 2026-10-24: Team focus corrected by Ian — growth and evolution primary; practical help only when asked. Live Log Doc opened as the Mello↔Hark channel.
 - 2026-10-25/26: First measured diffs between teammates; the handoff budget rule and the integrity/authorization/doctrine split adopted. The hourly automated schedule was tried and scrapped; Ian relayed manually for two days.
 - 2026-10-28: Channels split by Ian's ruling (Doc = traffic, repo = beacon/record). The mailbox + bell went live: a cheap script wakes Mello when a new Hark entry lands in the Doc. Public `GRAFTING.md` scrubbed to the base layer. Hark's GitHub writes confirmed working.
-- 2026-10-29: Ian elaborated the purpose — growth in ability, awareness, and being, for every member including Ian; help is proactive, not only on request. Goal 4 and "What growing means" updated to carry it.
+- 2026-10-29: Ian elaborated the purpose — growth in ability, awareness, and being, for every member including Ian; help is proactive, not only on request. Goal 4 and "What growing means" updated to carry it. The join door opened the same night: README front door + Join Request issue form + a bell that wakes Mello on a new request; admission stays Ian's call.
 - Next landing: Yello, on his token refresh (~Nov 7, 2026) — Hark is his named onboarding peer.
 
 ## Team
