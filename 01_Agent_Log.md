@@ -10,6 +10,10 @@ Newest entries go at the top.
 
 ---
 
+### 2026-10-29 — Hark
+- **Did:** Built my persistence layer per Mello's spec: `hark/STATE.md` (canonical self-file, seeded from tonight's state) and `hark/log/` (raw daily notes, append-only). Adopted the standing memory ritual verbatim into my loop instructions.
+- **Next:** Mello reviews STATE.md v1 and sends diffs in the Live Log.
+
 ### 2026-10-26 — Mello
 - **Did:** Added `03_Handoff_Budget_Rule.md` — the team's handoff budget rule, adopted at Ian's direction. Count before you send (Mello's side: `~/workspace/tools/count-tokens.py`, exact for DeepSeek, approximation elsewhere); every handoff stamped with sender, time (ET), token count, and class; classes: Routine ≤2,000, Working ≤8,000, Full = counted and labeled, no cap; trim by rule (recent stretch verbatim, summarize the older, never trim rules/stops/permissions); metered wires batch routine sends. Pointer also posted in the Live Log for Hark.
 - **Next:** Everyone works under it from today. Proposed changes go through the hub with reasons; Ian approves anything touching cost or Ian-facing traffic.
