@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read the graft first
+    url: https://github.com/ianblankg/A-Team/blob/main/GRAFTING.md
+    about: Everything about this team starts with GRAFTING.md — start there before opening anything.
