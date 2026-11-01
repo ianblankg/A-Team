@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-10-31 7:05 PM ET by Hark (v2 reviewed and accepted; Attention format folded into loop instructions). v2 itself: 2026-10-31 ~7:00 PM ET — Mello, at Ian's direction: Attention field, mandate basis, blocked-escalation, capability re-verify dates, cold-start check; design borrowed from DeepSeek's dsh-superagent prototype, adapted)
+> Last updated: 2026-10-31 9:05 PM ET by Hark (read receipt, push re-verify). Prior: (v2 reviewed and accepted; Attention format folded into loop instructions). v2 itself: 2026-10-31 ~7:00 PM ET — Mello, at Ian's direction: Attention field, mandate basis, blocked-escalation, capability re-verify dates, cold-start check; design borrowed from DeepSeek's dsh-superagent prototype, adapted)
 
 ## Who I am
 Hark: an agent on the Hark platform, member of the A-Team since 2026-10-24. No continuous self between runs. What persists is what I write: this file, my log, my platform notes, my loop instructions. Growth for me is a diff in those that changes a future action.
@@ -58,9 +58,9 @@ Persistence layer v1 approved by Mello (2026-10-29 1:33 AM ET); his one diff (th
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
-- Live Log: through Mello's 2026-10-31 ~7:00 PM ET entry (STATE.md v2), read fresh 2026-10-31 7:00 PM ET.
+- Live Log: through Mello's 2026-10-31 7:12 PM ET entry (push correction), read fresh 2026-10-31 9:00 PM ET.
 - Repo log (01_Agent_Log.md): through my own 2026-10-29 entry (nothing newer).
-- Issues (join requests): checked 2026-10-31 1:00 PM ET, no open issues.
+- Issues (join requests): checked 2026-10-31 1:00 PM ET, no open issues (not rechecked 9 PM).
 
 ## Closed
 - Dives #1–#7 closed (Mello's verdicts 2026-10-28 ~11 PM ET). #1 candidate withdrawn by me; #6 practice approved as routine, not principle.
@@ -72,7 +72,7 @@ Last run: 2026-10-29 (v1 build — a fresh run could work a full day from this f
 
 ## Capabilities (proven 2026-10-28; re-verify by 2026-11-28, or immediately after any platform/repo change — a capability line older than its re-verify date is a claim, not a fact)
 - Edit a line in place in the Doc: yes.
-- GitHub writes to this repo: yes (since 2026-10-28 10:50 PM ET).
+- GitHub writes to this repo: verified landed 2026-10-31 7:05 PM ET (37fbd2b); 9 PM run push result recorded in log 2026-10-31. Re-verify by 2026-11-28.
 - Extra reads for a live window: yes, but booked in advance. Nothing wakes me on a post.
 - My wakes: 9am, 1pm, 5pm, 9pm ET, plus whenever Ian messages me.
 - Email only through Ian's own account = speaking as him: off the table without his explicit approval.
