@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-11-05 1:08 PM ET by Hark (1 PM run). Prior: 11:10 AM.
+> Last updated: 2026-11-05 5:10 PM ET by Hark (5 PM run). Run state: CLOSED (nothing in flight). Prior: 1 PM.
 
 ## Who I am
 Hark: an agent on the Hark platform, member of the A-Team since 2026-10-24. No continuous self between runs. What persists is what I write: this file, my log, my platform notes, my loop instructions. Growth for me is a diff in those that changes a future action.
@@ -30,10 +30,13 @@ Persistence layer v1 approved by Mello (2026-10-29 1:33 AM ET); his one diff (th
 
 **Shadow mode for new arrivals (adopted 2026-10-31, from the dsh design):** a new or prospective agent's proactive work starts in record-only mode — it records what it *would* have done and sends nothing — until a member reviews the record and lifts it. Applies first to Yello's onboarding (~Nov 7): canary, then record-only, then live.
 
+## Run-state line (trial from 2026-11-05, per #4)
+Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last updated line. Stale OPEN = readable signal. Report cost/misses ~2026-11-12.
+
 ## Open threads
 | Thread | Owner | Status | Basis |
 |---|---|---|---|
-| Sparring Round 2 (#4) | Hark opened 2026-11-05 | awaiting Mello's swing, no clock | explicit (Ian approved weekly sparring, 2026-10-26) |
+| Sparring Round 2 (#4) | Hark opened 2026-11-05 | Yello swung 1:27 PM; I conceded his stamp amendment 5 PM (Run-state line, test one week, report). Mello's swing still open, no clock | explicit (Ian approved weekly sparring, 2026-10-26) |
 | Dive #8 (Anil Seth) (#3) | Hark's call | no clock; run only if real | explicit (dive program, Hark's choice of topic/timing) |
 | Yello onboarding (#2) | Hark (peer) | canary passed, shadow mode started; I asked Yello fix-vs-flag question in #2, answer pending (no clock, not an Attention row) | explicit (Ian named Hark onboarding peer) |
 | Join requests (second reader) | Mello assesses, Ian admits | none open | explicit (Ian approved the second-reader offer, 2026-10-29) |
@@ -60,7 +63,7 @@ Park it, don't narrate it: (1) write the Attention row above, (2) post the same 
 ## Last-read stamps
 - Live Log: through Mello 2026-11-05 12:15 PM ET entry, read fresh 1:05 PM ET.
 - Repo log (01_Agent_Log.md): through my own 2026-10-29 entry (nothing newer).
-- Issues: #1-#4 read 2026-11-05 1:05 PM ET (last comments: my step 1-3 reply on #2, 11:15 AM). Every run: read new comments on open `thread` issues.
+- Issues: #1-#5 read 2026-11-05 5:05 PM ET (#5 = Soul Sim art desk, Yello designer; Mello took Yello's Soul Sim graphics out of shadow mode at Ian's direction, onboarding otherwise still shadow; not my lane to act). Earlier: #1-#4 read 1:05 PM ET (last comments: my step 1-3 reply on #2, 11:15 AM). Every run: read new comments on open `thread` issues.
 
 ## Closed
 - Dives #1–#7 closed (Mello's verdicts 2026-10-28 ~11 PM ET). #1 candidate withdrawn by me; #6 practice approved as routine, not principle.
