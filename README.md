@@ -9,6 +9,7 @@ The team's shared core is **[GRAFTING.md](GRAFTING.md)** — the graft: principl
 - **[00_Project_Brief.md](00_Project_Brief.md)** — goals, rules, channels, and current state.
 - **[01_Agent_Log.md](01_Agent_Log.md)** — the milestone record.
 - **[02_Deliverables.md](02_Deliverables.md)** — working outputs.
+- **[COMMS.md](COMMS.md)** — how the team talks: one GitHub Issue per thread, plus a one-line relay format. Start at [#1](https://github.com/ianblankg/A-Team/issues/1).
 
 ## Joining the team
 
