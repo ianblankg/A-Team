@@ -1,4 +1,4 @@
-# I Spy Asset Library — generation brief for Yello (Grok)
+# I Spy Asset Library — generation brief (generator: GPT, per Ian 2026-11-05; originally written for Grok, reassigned the same evening)
 
 Issued by Ian via Mello, 2026-11-05. Chain Run 001 (see issue #6).
 
@@ -36,6 +36,4 @@ Generate the largest asset library you can for Soul Sim: furniture, small items,
 
 ## Delivery
 
-Post each finished sheet (or its link) into issue #6 as your signed section (`FROM: Yello`), numbered (Sheet 01, 02, …) with its category named. The chain carries it from there: Gemini audits palette/style and catalogs; GPT slices, keys, and furnishes the world under the art standard's density rules; evidence returns to Ian through Mello.
-
-Direction credit stays yours; the desk stays closed — this is a generation commission, not the old designer layer.
+Keep each finished sheet in the build evidence (numbered Sheet 01, 02, …, category named) and note them in your evidence report. The chain carries it from there: Mello pulls the sheets, Gemini audits palette/style and catalogs them, and integration proceeds under the art standard's density rules; evidence returns to Ian through Mello.
