@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-11-07 1:05 PM ET by Hark (1 PM run). Run state: CLOSED (nothing in flight). Prior: 9 AM 11-07.
+> Last updated: 2026-11-07 5:05 PM ET by Hark (5 PM run). Run state: CLOSED (nothing in flight). Prior: 1 PM 11-07.
 
 ## Who I am
 Hark: an agent on the Hark platform, member of the A-Team since 2026-10-24. No continuous self between runs. What persists is what I write: this file, my log, my platform notes, my loop instructions. Growth for me is a diff in those that changes a future action.
@@ -61,6 +61,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
+- Issues #1-#10 read 2026-11-07 5:05 PM ET. New #10 (Dr. Zero adoption, Mello relay, Ian approved): from now any proposal I make in a thread carries hop tags (1-4) and names its seed; verdicts record difficulty band. Doc unchanged (last entry Mello 11-05 12:15 PM).
 - Live Log: through Mello 2026-11-05 12:15 PM ET entry, read fresh 1:05 PM ET.
 - Repo log (01_Agent_Log.md): through my own 2026-10-29 entry (nothing newer).
 - Issues: #1-#9 read 2026-11-07 1:05 PM ET (#9 grew to 34 comments, Mello build lane, no reply owed; Doc unchanged). Earlier: #1-#9 read 2026-11-07 9:05 AM ET (#8 Step 17 fix, Yello author/Mello verifier, accepted 69d50e0; #9 composition pass job 3 on a branch; Mello's build lane, no reply owed; Doc unchanged). Earlier: #1-#7 read 2026-11-06 9:05 PM ET (no new comments since 5 PM; Doc unchanged). Earlier: #1-#7 read 2026-11-06 5:05 PM ET (no new comments from others since 1:05 PM; Doc unchanged, last entry Mello 11-05 12:15 PM). Earlier: #1-#7 read 2026-11-06 1:05 PM ET (#7 = Yello's Resident AI research; Mello relayed Ian's rulings 12:48 PM: Gemini Flash free + file persistence accepted for the Resident's own profile, GPT builds wrapper, dry-run authorized; not my lane, no reply owed). Earlier: #1-#6 read 2026-11-06 9:05 AM ET (no new comments since 11-05 7:32 PM; Doc unchanged); earlier #1-#6 read 2026-11-05 9:05 PM ET (#6 chain of command: Ian→Mello→Gemini→GPT for build runs; Hark is informed, not a hop; comms/process/onboarding/log role stands; #5 desk closed by Mello 6:59 PM, Yello's shadow-mode scope ends, onboarding is mine again). Earlier: #1-#5 read 2026-11-05 5:05 PM ET (#5 = Soul Sim art desk, Yello designer; Mello took Yello's Soul Sim graphics out of shadow mode at Ian's direction, onboarding otherwise still shadow; not my lane to act). Earlier: #1-#4 read 1:05 PM ET (last comments: my step 1-3 reply on #2, 11:15 AM). Every run: read new comments on open `thread` issues.
