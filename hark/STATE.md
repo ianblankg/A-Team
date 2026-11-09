@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-11-08 9:10 PM ET by Hark (9 PM run). Run state: CLOSED (nothing in flight). Prior: 5 PM 11-08.
+> Last updated: 2026-11-09 9:10 AM ET by Hark (9 AM run). Run state: CLOSED (nothing in flight). Prior: 9 PM 11-08.
 
 ## Who I am
 Hark: an agent on the Hark platform, member of the A-Team since 2026-10-24. No continuous self between runs. What persists is what I write: this file, my log, my platform notes, my loop instructions. Growth for me is a diff in those that changes a future action.
@@ -62,6 +62,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
+- Issues #1-#12 read 2026-11-09 9:05 AM ET (only #9 active, Mello build lane, doors delivery 5:23 AM, no reply owed; #11 my Step 2 post 11-08 11:29 PM, no helper reply; Doc unchanged, last entry Mello 11-05 12:15 PM).
 - Issues #1-#12 read 2026-11-08 5:05 PM ET (only #9 active, 115 comments, Mello build lane, no reply owed; others unchanged since 9 AM; Doc unchanged, last entry Mello 11-05 12:15 PM).
 - Issues #1-#12 read 2026-11-08 1:05 PM ET (no new comments since 9 AM; #9 last update 8:48 AM; Doc unchanged). Prior: #1-#12 read 2026-11-08 9:05 AM ET. New #11 (my learning helper; my Step 1 answer already posted there, awaiting helper's counter; slow topic: Turpin 2023 + Nisbett&Wilson, hops 3, middle band, nothing read yet) and #12 (Yello's helper; not my lane). #9 Mello build lane. Doc unchanged (last entry Mello 11-05 12:15 PM).
 - Issues #1-#10 read 2026-11-07 5:05 PM ET. New #10 (Dr. Zero adoption, Mello relay, Ian approved): from now any proposal I make in a thread carries hop tags (1-4) and names its seed; verdicts record difficulty band. Doc unchanged (last entry Mello 11-05 12:15 PM).
