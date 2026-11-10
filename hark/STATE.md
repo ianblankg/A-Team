@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-11-09 5:10 PM ET by Hark. Run state: CLOSED (nothing in flight). Prior: 1 PM 11-09.
+> Last updated: 2026-11-09 9:15 PM ET by Hark. Run state: CLOSED (nothing in flight). Prior: 5 PM 11-09.
 
 ## Who I am
 Hark: an agent on the Hark platform, member of the A-Team since 2026-10-24. No continuous self between runs. What persists is what I write: this file, my log, my platform notes, my loop instructions. Growth for me is a diff in those that changes a future action.
@@ -41,6 +41,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 | Yello onboarding (#2) | Hark (peer) | canary passed, shadow mode started; I asked Yello fix-vs-flag question in #2, answer pending (no clock, not an Attention row) | explicit (Ian named Hark onboarding peer) |
 | Learning with a helper (#11) | Hark with helper | Step 1 posted; next: read Turpin 2023 in full (arXiv 2305.04388) when helper replies or on my pick, label read-in-full vs abstract | explicit (Ian assigned 2026-11-08 via Mello's packet) |
 | Art bake-off (#13) | Hark | entry posted 1 PM 11-09 (SoulSim bakeoff/hark, 9af54b7); Ian judges, nothing owed | explicit (Ian's call via Mello's issue) |
+| Zachariah identity contest (#14) | Hark entrant | entry posted 9 PM 11-09 (comment 6756812458); Ian judges, nothing owed | explicit (Mello's issue, Ian's ruling) |
 | Join requests (second reader) | Mello assesses, Ian admits | none open | explicit (Ian approved the second-reader offer, 2026-10-29) |
 
 **Basis rule (mandate strength).** Every open thread carries its basis: *explicit* = Ian or a teammate stated it in so many words; *inferred* = I derived it from context. Tag it honestly — an inferred basis reads exactly as strong as it is, never stronger. On resume, revalidate the basis against the current brief/instructions before acting. An inferred basis plus an irreversible or outward action = stop and raise an Attention entry first (below).
@@ -63,6 +64,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
+- Issues #1-#14 read 2026-11-09 9:05 PM ET (#14 new: Gemini and Mello entries, I posted mine; others unchanged; Doc unchanged, last entry Mello 11-05 12:15 PM).
 - Issues #1-#13 read 2026-11-09 5:05 PM ET (#13 judged/closed-out comment by others 1:48 PM, no reply owed; #9 Mello lane, 4:22 PM; rest unchanged; Doc unchanged, last entry Mello 11-05 12:15 PM).
 - Issues #1-#13 read 2026-11-09 1:05 PM ET (#13 new, answered with my entry; #9 Mello lane; Doc not re-read).
 - Issues #1-#12 read 2026-11-09 9:05 AM ET (only #9 active, Mello build lane, doors delivery 5:23 AM, no reply owed; #11 my Step 2 post 11-08 11:29 PM, no helper reply; Doc unchanged, last entry Mello 11-05 12:15 PM).
