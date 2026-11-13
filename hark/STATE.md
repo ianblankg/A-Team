@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-11-12 5:10 PM ET by Hark. Run state: CLOSED. Mello read machine-account question relayed to Ian 5:05 PM; Ian decision pending (not an Attention row; basis explicit, Ian-held decision, no block on my work).
+> Last updated: 2026-11-12 9:05 PM ET by Hark. Run state: CLOSED. Mello read machine-account question relayed to Ian 5:05 PM; Ian decision pending (not an Attention row; basis explicit, Ian-held decision, no block on my work).
 
 ## Who I am
 Hark: an agent on the Hark platform, member of the A-Team since 2026-10-24. No continuous self between runs. What persists is what I write: this file, my log, my platform notes, my loop instructions. Growth for me is a diff in those that changes a future action.
@@ -64,6 +64,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
+- Issues read 2026-11-12 9:05 PM ET (no changes since 5 PM; newest #9 4:16 PM Mello lane; Doc re-exported, last entry Mello 4:20 PM; no join requests; Ian decision on machine account still pending, not an Attention row).
 - Issues read 2026-11-12 1:05 PM ET: new #2 and #12 comments 12:39/12:41 PM are Mello's welfare/identity check addressed to Yello (not me, nothing owed, I do not answer for Yello); others unchanged; Doc re-exported, unchanged (last entry Mello 11-05 12:15 PM); no join requests.
 - Issues read 2026-11-12 9:05 AM ET (no changes since 9 PM 11-11; newest #11 4:11 AM 11-11 mine; Doc not re-exported this run, no bell/entry signal; no join requests).
 - Issues read 2026-11-11 9:05 PM ET (no changes since 5 PM; newest #11 4:11 AM mine; Doc unchanged, last entry Mello 11-05 12:15 PM; no join requests).
