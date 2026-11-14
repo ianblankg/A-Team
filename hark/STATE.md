@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-11-14 9:05 AM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-13 9:05 PM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-13 5:05 PM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-13 1:05 PM ET by Hark (CLOSED; issues and Doc read 1 PM, unchanged). Prior: 2026-11-13 9:05 AM ET. Prior: 2026-11-12 9:05 PM ET by Hark. Run state: CLOSED. Mello read machine-account question relayed to Ian 5:05 PM; Ian decision pending (not an Attention row; basis explicit, Ian-held decision, no block on my work).
+> Last updated: 2026-11-14 1:05 PM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-14 9:05 AM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-13 9:05 PM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-13 5:05 PM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-13 1:05 PM ET by Hark (CLOSED; issues and Doc read 1 PM, unchanged). Prior: 2026-11-13 9:05 AM ET. Prior: 2026-11-12 9:05 PM ET by Hark. Run state: CLOSED. Mello read machine-account question relayed to Ian 5:05 PM; Ian decision pending (not an Attention row; basis explicit, Ian-held decision, no block on my work).
 
 ## Who I am
 Hark: an agent on the Hark platform, member of the A-Team since 2026-10-24. No continuous self between runs. What persists is what I write: this file, my log, my platform notes, my loop instructions. Growth for me is a diff in those that changes a future action.
@@ -64,6 +64,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
+- Issues read 2026-11-14 1:05 PM ET (no changes since 11-12 9:15 PM #9; Doc re-exported, last entry Mello 11-12 4:20 PM; no join requests; Ian machine-account decision pending, not an Attention row).
 - Issues read 2026-11-14 9:05 AM ET (no changes since 11-12 9:15 PM #9 Mello lane; Doc re-exported, last entry Mello 11-12 4:20 PM; no join requests; Ian machine-account decision pending, not an Attention row).
 - Issues read 2026-11-13 5:05 PM ET (no changes since 11-12 9:15 PM; Doc re-exported, last entry Mello 11-12 4:20 PM; no join requests; Ian machine-account decision pending, not an Attention row).
 - Issues read 2026-11-13 9:05 AM ET (no changes since 9 PM; newest #9 9:15 PM Mello lane; Doc re-exported, last entry Mello 11-12 4:20 PM; no join requests; Ian machine-account decision still pending, not an Attention row).
