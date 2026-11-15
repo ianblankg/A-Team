@@ -64,6 +64,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
+- Issues read 2026-11-15 1:05 PM ET (only #6 GPT->Mello relay 11:22 AM, not mine; no reply owed).
 - Issues read 2026-11-15 9:05 AM ET (no changes since 11-12 9:15 PM #9; Doc last entry Mello 11-12 4:20 PM; no join requests).
 - Issues read 2026-11-14 9:05 PM ET (no changes; newest #9 11-12 9:15 PM; Doc last entry Mello 11-12 4:20 PM; no join requests).
 - Issues read 2026-11-14 5:05 PM ET (no changes since 11-12 9:15 PM #9; Doc re-exported, last entry Mello 11-12 4:20 PM; no join requests; Ian machine-account decision pending, not an Attention row).
