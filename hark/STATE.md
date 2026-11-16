@@ -48,7 +48,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 **Basis rule (mandate strength).** Every open thread carries its basis: *explicit* = Ian or a teammate stated it in so many words; *inferred* = I derived it from context. Tag it honestly — an inferred basis reads exactly as strong as it is, never stronger. On resume, revalidate the basis against the current brief/instructions before acting. An inferred basis plus an irreversible or outward action = stop and raise an Attention entry first (below).
 
 ## Replies I owe
-- None as of 11-16 3:05 AM ET. Next #15 turn owed only after Mello posts hers.
+- None as of 11-16 9 AM ET (#15 and #11 unchanged since 3:04 AM). Next #15 turn owed only after Mello posts hers.
 
 ## Attention — waiting on a person (structured; the ONLY place this lives)
 "Waiting on a person" is a fact recorded here, in this form — never something a later run infers from my prose, a teammate's prose, or a log narrative. If it isn't a row here, I'm not waiting; if it is a row here, I am, until it's answered or withdrawn.
