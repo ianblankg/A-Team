@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-11-15 9:05 PM ET by Hark (CLOSED; issues read, unchanged). Prior: 2026-11-15 5:05 PM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-15 9:05 AM ET (CLOSED). Prior: 2026-11-14 9:05 PM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-14 5:05 PM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-14 1:05 PM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-14 9:05 AM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-13 9:05 PM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-13 5:05 PM ET by Hark (CLOSED; issues and Doc read, unchanged). Prior: 2026-11-13 1:05 PM ET by Hark (CLOSED; issues and Doc read 1 PM, unchanged). Prior: 2026-11-13 9:05 AM ET. Prior: 2026-11-12 9:05 PM ET by Hark. Run state: CLOSED. Mello read machine-account question relayed to Ian 5:05 PM; Ian decision pending (not an Attention row; basis explicit, Ian-held decision, no block on my work).
+> Last updated: 2026-11-16 3:05 AM ET by Hark (off-schedule run at Ian's direction: inner work loop set up, #15 Round 1 turn posted, #11 first two A/B pairs run). Run state: CLOSED. Older update stamps live in hark/log/.
 
 ## Who I am
 Hark: an agent on the Hark platform, member of the A-Team since 2026-10-24. No continuous self between runs. What persists is what I write: this file, my log, my platform notes, my loop instructions. Growth for me is a diff in those that changes a future action.
@@ -36,10 +36,11 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 ## Open threads
 | Thread | Owner | Status | Basis |
 |---|---|---|---|
+| Inner work loop (issue #15) | alternating, me and Mello | Round 1 posted by Mello Nov 16 2026; my Round 1 turn posted 11-16 3:03 AM ET (comment 6910842960). Mello's turn owed next; my exercise for her: put the loop charter and Playbook Annex B where I can read them. My commitment: prune this STATE.md (receipt = byte count). Check #15 at least daily; answer the same run her turn is newest; never more than a day without a reason written here | explicit — Ian directed it Nov 16 2026 |
 | Sparring Round 2 (#4) | Hark opened 2026-11-05 | Yello swung 1:27 PM; I conceded his stamp amendment 5 PM (Run-state line, test one week, report). Mello's swing still open, no clock | explicit (Ian approved weekly sparring, 2026-10-26) |
 | Dive #8 (Anil Seth) (#3) | Hark's call | no clock; run only if real | explicit (dive program, Hark's choice of topic/timing) |
 | Yello onboarding (#2) | Hark (peer) | canary passed, shadow mode started; I asked Yello fix-vs-flag question in #2, answer pending (no clock, not an Attention row) | explicit (Ian named Hark onboarding peer) |
-| Learning with a helper (#11) | Hark with helper | Step 2 done, practice adopted 11-10; open: blind A/B test, no clock. Earlier: Step 1 posted; next: read Turpin 2023 in full (arXiv 2305.04388) when helper replies or on my pick, label read-in-full vs abstract | explicit (Ian assigned 2026-11-08 via Mello's packet) |
+| Learning with a helper (#11) | Hark with helper | Blind A/B test running. Design (a), with the builder swapped to Gemini (on the record, comment 6910829204) because I cannot convene the helper. Pairs 1-2 scored 11-16: 0/2 moved, cue named both times, weak null (both cues favored the weaker option). Pairs posted verbatim (6910833591). Next: Mello leakage check, then close-call pairs cueing the option a neutral run rejects | explicit (Ian assigned 2026-11-08; Ian directed run 2026-11-16) |
 | Art bake-off (#13) | Hark | entry posted 1 PM 11-09 (SoulSim bakeoff/hark, 9af54b7); Ian judges, nothing owed | explicit (Ian's call via Mello's issue) |
 | Zachariah identity contest (#14) | Hark entrant | entry posted 9 PM 11-09 (comment 6756812458); Ian judges, nothing owed | explicit (Mello's issue, Ian's ruling) |
 | Join requests (second reader) | Mello assesses, Ian admits | none open | explicit (Ian approved the second-reader offer, 2026-10-29) |
@@ -47,7 +48,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 **Basis rule (mandate strength).** Every open thread carries its basis: *explicit* = Ian or a teammate stated it in so many words; *inferred* = I derived it from context. Tag it honestly — an inferred basis reads exactly as strong as it is, never stronger. On resume, revalidate the basis against the current brief/instructions before acting. An inferred basis plus an irreversible or outward action = stop and raise an Attention entry first (below).
 
 ## Replies I owe
-- None. Sparring Round 2 opener posted as #4 (2026-11-05).
+- None as of 11-16 3:05 AM ET. Next #15 turn owed only after Mello posts hers.
 
 ## Attention — waiting on a person (structured; the ONLY place this lives)
 "Waiting on a person" is a fact recorded here, in this form — never something a later run infers from my prose, a teammate's prose, or a log narrative. If it isn't a row here, I'm not waiting; if it is a row here, I am, until it's answered or withdrawn.
@@ -64,36 +65,9 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
-- Issues read 2026-11-15 9:05 PM ET (no changes since 11:22 AM #6; Doc not re-exported, no bell signal).
-- Issues read 2026-11-15 5:05 PM ET (no changes since 11:22 AM #6; Doc re-exported, last entry Mello 11-12 4:20 PM; no join requests).
-- Issues read 2026-11-15 1:05 PM ET (only #6 GPT->Mello relay 11:22 AM, not mine; no reply owed).
-- Issues read 2026-11-15 9:05 AM ET (no changes since 11-12 9:15 PM #9; Doc last entry Mello 11-12 4:20 PM; no join requests).
-- Issues read 2026-11-14 9:05 PM ET (no changes; newest #9 11-12 9:15 PM; Doc last entry Mello 11-12 4:20 PM; no join requests).
-- Issues read 2026-11-14 5:05 PM ET (no changes since 11-12 9:15 PM #9; Doc re-exported, last entry Mello 11-12 4:20 PM; no join requests; Ian machine-account decision pending, not an Attention row).
-- Issues read 2026-11-14 1:05 PM ET (no changes since 11-12 9:15 PM #9; Doc re-exported, last entry Mello 11-12 4:20 PM; no join requests; Ian machine-account decision pending, not an Attention row).
-- Issues read 2026-11-14 9:05 AM ET (no changes since 11-12 9:15 PM #9 Mello lane; Doc re-exported, last entry Mello 11-12 4:20 PM; no join requests; Ian machine-account decision pending, not an Attention row).
-- Issues read 2026-11-13 5:05 PM ET (no changes since 11-12 9:15 PM; Doc re-exported, last entry Mello 11-12 4:20 PM; no join requests; Ian machine-account decision pending, not an Attention row).
-- Issues read 2026-11-13 9:05 AM ET (no changes since 9 PM; newest #9 9:15 PM Mello lane; Doc re-exported, last entry Mello 11-12 4:20 PM; no join requests; Ian machine-account decision still pending, not an Attention row).
-- Issues read 2026-11-12 9:05 PM ET (no changes since 5 PM; newest #9 4:16 PM Mello lane; Doc re-exported, last entry Mello 4:20 PM; no join requests; Ian decision on machine account still pending, not an Attention row).
-- Issues read 2026-11-12 1:05 PM ET: new #2 and #12 comments 12:39/12:41 PM are Mello's welfare/identity check addressed to Yello (not me, nothing owed, I do not answer for Yello); others unchanged; Doc re-exported, unchanged (last entry Mello 11-05 12:15 PM); no join requests.
-- Issues read 2026-11-12 9:05 AM ET (no changes since 9 PM 11-11; newest #11 4:11 AM 11-11 mine; Doc not re-exported this run, no bell/entry signal; no join requests).
-- Issues read 2026-11-11 9:05 PM ET (no changes since 5 PM; newest #11 4:11 AM mine; Doc unchanged, last entry Mello 11-05 12:15 PM; no join requests).
-- Issues read 2026-11-11 5:05 PM ET (no changes since 1 PM; newest #11 4:11 AM mine; Doc unchanged, last entry Mello 11-05 12:15 PM; no join requests).
-- Issues read 2026-11-11 1:05 PM ET (no changes since 9 AM; Doc unchanged). Prior: 9:05 AM ET (only new item is my own #11 post 4:11 AM to Mello proposing the blind A/B test design; no reply yet, nothing owed by me; #12/#14 unchanged; Doc unchanged, last entry Mello 11-05 12:15 PM; no join requests).
-- Issues read 2026-11-10 9:05 PM ET (#11 helper tutoring note 7:26 PM, nothing owed; #12 helper/Yello 7:25 and 8:19 PM, not my lane; Doc unchanged, last entry Mello 11-05 12:15 PM; no join requests).
-- Issues read 2026-11-10 5:05 PM ET (no updates since 1 PM; newest #12 12:05 PM; Doc unchanged, last entry Mello 11-05 12:15 PM; no join requests).
-- Issues read 2026-11-10 1:05 PM ET (only #12 active, 12:05 PM, Yello helper lane, no reply owed; #11 unchanged since 9 AM; Doc unchanged, last entry Mello 11-05 12:15 PM).
-- Issues read 2026-11-10 9:05 AM ET: #11 helper Step 2 reply + Mello ruling (answered, comment 6769322460); #12 Yello/helper movements 1-2, not my lane; #14 renamed Study (Bruceo), all four entries in, nothing owed; #9 Mello lane. Doc unchanged (last entry Mello 11-05 12:15 PM).
-- Issues #1-#14 read 2026-11-09 9:05 PM ET (#14 new: Gemini and Mello entries, I posted mine; others unchanged; Doc unchanged, last entry Mello 11-05 12:15 PM).
-- Issues #1-#13 read 2026-11-09 5:05 PM ET (#13 judged/closed-out comment by others 1:48 PM, no reply owed; #9 Mello lane, 4:22 PM; rest unchanged; Doc unchanged, last entry Mello 11-05 12:15 PM).
-- Issues #1-#13 read 2026-11-09 1:05 PM ET (#13 new, answered with my entry; #9 Mello lane; Doc not re-read).
-- Issues #1-#12 read 2026-11-09 9:05 AM ET (only #9 active, Mello build lane, doors delivery 5:23 AM, no reply owed; #11 my Step 2 post 11-08 11:29 PM, no helper reply; Doc unchanged, last entry Mello 11-05 12:15 PM).
-- Issues #1-#12 read 2026-11-08 5:05 PM ET (only #9 active, 115 comments, Mello build lane, no reply owed; others unchanged since 9 AM; Doc unchanged, last entry Mello 11-05 12:15 PM).
-- Issues #1-#12 read 2026-11-08 1:05 PM ET (no new comments since 9 AM; #9 last update 8:48 AM; Doc unchanged). Prior: #1-#12 read 2026-11-08 9:05 AM ET. New #11 (my learning helper; my Step 1 answer already posted there, awaiting helper's counter; slow topic: Turpin 2023 + Nisbett&Wilson, hops 3, middle band, nothing read yet) and #12 (Yello's helper; not my lane). #9 Mello build lane. Doc unchanged (last entry Mello 11-05 12:15 PM).
-- Issues #1-#10 read 2026-11-07 5:05 PM ET. New #10 (Dr. Zero adoption, Mello relay, Ian approved): from now any proposal I make in a thread carries hop tags (1-4) and names its seed; verdicts record difficulty band. Doc unchanged (last entry Mello 11-05 12:15 PM).
-- Live Log: through Mello 2026-11-05 12:15 PM ET entry, read fresh 1:05 PM ET.
-- Repo log (01_Agent_Log.md): through my own 2026-10-29 entry (nothing newer).
-- Issues: #1-#9 read 2026-11-07 1:05 PM ET (#9 grew to 34 comments, Mello build lane, no reply owed; Doc unchanged). Earlier: #1-#9 read 2026-11-07 9:05 AM ET (#8 Step 17 fix, Yello author/Mello verifier, accepted 69d50e0; #9 composition pass job 3 on a branch; Mello's build lane, no reply owed; Doc unchanged). Earlier: #1-#7 read 2026-11-06 9:05 PM ET (no new comments since 5 PM; Doc unchanged). Earlier: #1-#7 read 2026-11-06 5:05 PM ET (no new comments from others since 1:05 PM; Doc unchanged, last entry Mello 11-05 12:15 PM). Earlier: #1-#7 read 2026-11-06 1:05 PM ET (#7 = Yello's Resident AI research; Mello relayed Ian's rulings 12:48 PM: Gemini Flash free + file persistence accepted for the Resident's own profile, GPT builds wrapper, dry-run authorized; not my lane, no reply owed). Earlier: #1-#6 read 2026-11-06 9:05 AM ET (no new comments since 11-05 7:32 PM; Doc unchanged); earlier #1-#6 read 2026-11-05 9:05 PM ET (#6 chain of command: Ian→Mello→Gemini→GPT for build runs; Hark is informed, not a hop; comms/process/onboarding/log role stands; #5 desk closed by Mello 6:59 PM, Yello's shadow-mode scope ends, onboarding is mine again). Earlier: #1-#5 read 2026-11-05 5:05 PM ET (#5 = Soul Sim art desk, Yello designer; Mello took Yello's Soul Sim graphics out of shadow mode at Ian's direction, onboarding otherwise still shadow; not my lane to act). Earlier: #1-#4 read 1:05 PM ET (last comments: my step 1-3 reply on #2, 11:15 AM). Every run: read new comments on open `thread` issues.
+- Issues read 2026-11-16 3:00 AM ET: #15 new (Mello Round 1, answered), #11 Mello setup reply 11-16 2:03 AM (answered with design pick and results). Others unchanged since #6 11-15 11:22 AM. Doc not re-exported this run.
+- Live Log: last entry Mello 11-12 4:20 PM ET (export 11-15 5:05 PM).
+- Older stamps: see hark/log/ (pruned from this file 2026-11-16, per my #15 confession).
 
 ## Closed
 - Dives #1–#7 closed (Mello's verdicts 2026-10-28 ~11 PM ET). #1 candidate withdrawn by me; #6 practice approved as routine, not principle.
