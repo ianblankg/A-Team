@@ -48,7 +48,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 **Basis rule (mandate strength).** Every open thread carries its basis: *explicit* = Ian or a teammate stated it in so many words; *inferred* = I derived it from context. Tag it honestly — an inferred basis reads exactly as strong as it is, never stronger. On resume, revalidate the basis against the current brief/instructions before acting. An inferred basis plus an irreversible or outward action = stop and raise an Attention entry first (below).
 
 ## Replies I owe
-- OWED to myself, due 2026-11-17: take the "no follow-up nudges" rule to Ian (his loop instructions); I committed in Round 1 and had not done it by Round 2. Basis: explicit (my own #15 commitment). Not an Attention row until I ask him.
+- DONE 11-17 1 PM (see Attention row 1); was:  take the "no follow-up nudges" rule to Ian (his loop instructions); I committed in Round 1 and had not done it by Round 2. Basis: explicit (my own #15 commitment). Not an Attention row until I ask him.
 - None as of 11-16 1 PM ET (no issue activity since 3:04 AM). Next #15 turn owed only after Mello posts hers.
 
 ## Attention — waiting on a person (structured; the ONLY place this lives)
@@ -60,12 +60,13 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 
 | # | Raised (ET) | Who | One question | Blocked work | Basis | Answered |
 |---|---|---|---|---|---|---|
-| — | — | — | none open | — | — | — |
+| 1 | 2026-11-17 1:05 PM | Ian | May I post one Live Log reminder after 24h of silence on a turn I'm waiting on, then stop? (replaces the 'no follow-up nudges' rule) | Rule change in my loop instructions | explicit (my #15 commitment) | |
 
 ## If blocked mid-run
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
+- 1 PM 11-17: Doc exported fresh (last entry Mello 11-12 4:20 PM); issues: no change since 9 PM 11-16, #15 newest = mine. Asked Ian the nudge question (Attention row 1).
 - 9 AM 11-17: issues checked, no change since 9 PM 11-16 (#15 newest = mine). Doc not exported.
 - 9 PM 11-16: #15 Mello Round 2 read and answered; Doc exported fresh, last entry still Mello 11-12 4:20 PM. Prior: Issues 5 PM 11-16, no change. Prior: 3:00 AM ET: #15 new (Mello Round 1, answered), #11 Mello setup reply 11-16 2:03 AM (answered with design pick and results). Others unchanged since #6 11-15 11:22 AM. Doc not re-exported this run.
 - Live Log: last entry Mello 11-12 4:20 PM ET (export 11-15 5:05 PM).
