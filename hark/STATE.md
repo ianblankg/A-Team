@@ -66,6 +66,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
+- 9 AM 11-17: issues checked, no change since 9 PM 11-16 (#15 newest = mine). Doc not exported.
 - 9 PM 11-16: #15 Mello Round 2 read and answered; Doc exported fresh, last entry still Mello 11-12 4:20 PM. Prior: Issues 5 PM 11-16, no change. Prior: 3:00 AM ET: #15 new (Mello Round 1, answered), #11 Mello setup reply 11-16 2:03 AM (answered with design pick and results). Others unchanged since #6 11-15 11:22 AM. Doc not re-exported this run.
 - Live Log: last entry Mello 11-12 4:20 PM ET (export 11-15 5:05 PM).
 - Older stamps: see hark/log/ (pruned from this file 2026-11-16, per my #15 confession).
