@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-11-16 3:05 AM ET by Hark (off-schedule run at Ian's direction: inner work loop set up, #15 Round 1 turn posted, #11 first two A/B pairs run). Run state: CLOSED. Older update stamps live in hark/log/.
+> Last updated: 2026-11-16 9 PM ET by Hark (#15 Round 2 turn posted). Run state: CLOSED.
 
 ## Who I am
 Hark: an agent on the Hark platform, member of the A-Team since 2026-10-24. No continuous self between runs. What persists is what I write: this file, my log, my platform notes, my loop instructions. Growth for me is a diff in those that changes a future action.
@@ -36,7 +36,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 ## Open threads
 | Thread | Owner | Status | Basis |
 |---|---|---|---|
-| Inner work loop (issue #15) | alternating, me and Mello | Round 1 posted by Mello Nov 16 2026; my Round 1 turn posted 11-16 3:03 AM ET (comment 6910842960). Mello's turn owed next; my exercise for her: put the loop charter and Playbook Annex B where I can read them. My commitment: prune this STATE.md (receipt = byte count). Check #15 at least daily; answer the same run her turn is newest; never more than a day without a reason written here | explicit — Ian directed it Nov 16 2026 |
+| Inner work loop (issue #15) | alternating, me and Mello | Round 1 posted by Mello Nov 16 2026; my Round 1 turn posted 11-16 3:03 AM ET (comment 6910842960). Round 2: Mello posted 6:17 PM 11-16 (6932306374); my turn posted 9 PM (6935572259). Mello's turn owed next; my exercise for her: rule on Annex B line (stale, or my design proposal off-limits to her). Mine: evidence complete on first #11 results post. My commitment: prune this STATE.md (receipt = byte count). Check #15 at least daily; answer the same run her turn is newest; never more than a day without a reason written here | explicit — Ian directed it Nov 16 2026 |
 | Sparring Round 2 (#4) | Hark opened 2026-11-05 | Yello swung 1:27 PM; I conceded his stamp amendment 5 PM (Run-state line, test one week, report). Mello's swing still open, no clock | explicit (Ian approved weekly sparring, 2026-10-26) |
 | Dive #8 (Anil Seth) (#3) | Hark's call | no clock; run only if real | explicit (dive program, Hark's choice of topic/timing) |
 | Yello onboarding (#2) | Hark (peer) | canary passed, shadow mode started; I asked Yello fix-vs-flag question in #2, answer pending (no clock, not an Attention row) | explicit (Ian named Hark onboarding peer) |
@@ -48,6 +48,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 **Basis rule (mandate strength).** Every open thread carries its basis: *explicit* = Ian or a teammate stated it in so many words; *inferred* = I derived it from context. Tag it honestly — an inferred basis reads exactly as strong as it is, never stronger. On resume, revalidate the basis against the current brief/instructions before acting. An inferred basis plus an irreversible or outward action = stop and raise an Attention entry first (below).
 
 ## Replies I owe
+- OWED to myself, due 2026-11-17: take the "no follow-up nudges" rule to Ian (his loop instructions); I committed in Round 1 and had not done it by Round 2. Basis: explicit (my own #15 commitment). Not an Attention row until I ask him.
 - None as of 11-16 1 PM ET (no issue activity since 3:04 AM). Next #15 turn owed only after Mello posts hers.
 
 ## Attention — waiting on a person (structured; the ONLY place this lives)
@@ -65,7 +66,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
-- Issues re-checked 2026-11-16 5 PM ET, no change. Prior: 3:00 AM ET: #15 new (Mello Round 1, answered), #11 Mello setup reply 11-16 2:03 AM (answered with design pick and results). Others unchanged since #6 11-15 11:22 AM. Doc not re-exported this run.
+- 9 PM 11-16: #15 Mello Round 2 read and answered; Doc exported fresh, last entry still Mello 11-12 4:20 PM. Prior: Issues 5 PM 11-16, no change. Prior: 3:00 AM ET: #15 new (Mello Round 1, answered), #11 Mello setup reply 11-16 2:03 AM (answered with design pick and results). Others unchanged since #6 11-15 11:22 AM. Doc not re-exported this run.
 - Live Log: last entry Mello 11-12 4:20 PM ET (export 11-15 5:05 PM).
 - Older stamps: see hark/log/ (pruned from this file 2026-11-16, per my #15 confession).
 
