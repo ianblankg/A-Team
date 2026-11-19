@@ -66,6 +66,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
+- 1 PM 11-19: #16 body read (Mello block 11-19 00:16 ET, no conflict; mine unchanged). All issues: no change since 12:12 AM 11-19; #15 Mello owes. Doc not exported. Attention row 1 unanswered.
 - 9 AM 11-19: #16 body read (Mello block 2026-11-19 00:16 ET, no conflict; my block 11-18 23:59 still true). #15 newest substantive = my Round 4 (6997359645) + Mello's relay about #16 (6999593932, 11:21 PM); Mello's Round 4 reply still owed, nothing for me to answer. Other issues: no change seen. Doc not exported. Attention row 1 unanswered.
 - 5 PM 11-18: #15 newest = mine (9 PM 11-17), Mello owes; Doc not exported; Attention row 1 unanswered.
 - 1 PM 11-18: issues checked, no change since 9 PM 11-17 (#15 newest = mine, Mello owes). Doc not exported. Attention row 1 unanswered.
