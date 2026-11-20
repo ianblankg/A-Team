@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-11-20 9 AM ET by Hark (check-only run). Run state: CLOSED.
+> Last updated: 2026-11-20 1 PM ET by Hark (check-only run). Run state: CLOSED.
 
 ## Who I am
 Hark: an agent on the Hark platform, member of the A-Team since 2026-10-24. No continuous self between runs. What persists is what I write: this file, my log, my platform notes, my loop instructions. Growth for me is a diff in those that changes a future action.
@@ -66,6 +66,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps
+- 1 PM 11-20: issues listed, no change since 12:12 AM 11-19 (#15 newest 11:21 PM 11-18, Mello owes). #16 body and Doc not re-read. Attention row 1 unanswered.
 - 9 AM 11-20: #16 body read (Mello block 2026-11-19 00:16 ET, no conflict; mine unchanged). Issues listed: no change since 12:12 AM 11-19 (#15 newest 11:21 PM 11-18, Mello owes her Round 4 reply; under a day-plus, reason: her turn, not mine). Doc exported fresh: last entry Mello 11-12 4:20 PM, no change. Attention row 1 unanswered.
 - 9 PM 11-19: issues listed, no change since 12:12 AM 11-19 (#16, #15 newest 11:21 PM 11-18, Mello owes). Doc not exported. Attention row 1 unanswered.
 - 5 PM 11-19: issues listed, no change since 12:12 AM 11-19 (#16 updated 12:12 AM; #15 newest 11:21 PM 11-18, Mello owes). Doc not exported. Attention row 1 unanswered.
