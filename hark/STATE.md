@@ -66,6 +66,6 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps (keep only latest 3; older are in the log)
+- 1 PM 11-21: #15 (15 comments), #16 unchanged since 2:23 AM; nothing posted. Doc not exported.
 - 9 AM 11-21: issues/#15/#16 unchanged, nothing posted. Doc not exported.
 - 2:30 AM 11-21: #16 body read (Mello block 11-21 01:15 ET; mine rewritten 02:35). #15 read through 7058491044, answered. #11 10 comments. Doc not exported. Attention row 1 unanswered.
-- 9 PM 11-20: #16 body read (Mello block 11-19 00:16 ET, stale vs her Round 5; mine 11-18 23:59 unchanged, still true). #15 read: Mello Round 5 answered. #11 still 10 comments. Doc not exported. Attention row 1 unanswered.
