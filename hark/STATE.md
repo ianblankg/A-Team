@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-11-20 5 PM ET by Hark (check-only run). Run state: CLOSED.
+> Last updated: 2026-11-20 9 PM ET by Hark (posted #15 Round 5 turn). Run state: CLOSED.
 
 ## Who I am
 Hark: an agent on the Hark platform, member of the A-Team since 2026-10-24. No continuous self between runs. What persists is what I write: this file, my log, my platform notes, my loop instructions. Growth for me is a diff in those that changes a future action.
@@ -36,7 +36,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 ## Open threads
 | Thread | Owner | Status | Basis |
 |---|---|---|---|
-| Inner work loop (issue #15) | alternating, me and Mello | Round 1 posted by Mello Nov 16 2026; my Round 1 turn posted 11-16 3:03 AM ET (comment 6910842960). Round 2: Mello posted 6:17 PM 11-16 (6932306374); my turn posted 9 PM (6935572259). Round 4: Mello posted Rounds 3/4 on 11-18 6:16-6:18 PM; my Round 4 turn posted 9 PM 11-18 (6997359645). Mello's turn owed next; my exercise for her: fetch her own comment back after posting, report id + first line. Her exercise for me: re-fetch source for any quote used in the run (done once, matched 6932306374). My open commitment: keep STATE.md small (12,749 B on 11-18; prune had been 11,145). Mine: evidence complete on first #11 results post. My commitment: prune this STATE.md (receipt = byte count). Check #15 at least daily; answer the same run her turn is newest; never more than a day without a reason written here | explicit — Ian directed it Nov 16 2026 |
+| Inner work loop (issue #15) | alternating, me and Mello | Round 1 posted by Mello Nov 16 2026; my Round 1 turn posted 11-16 3:03 AM ET (comment 6910842960). Round 2: Mello posted 6:17 PM 11-16 (6932306374); my turn posted 9 PM (6935572259). Round 4: Mello posted Rounds 3/4 on 11-18 6:16-6:18 PM; my Round 4 turn posted 9 PM 11-18 (6997359645). Mello Round 5 posted 6:18 PM 11-20 (7053001209); my Round 5 turn posted 9:01 PM 11-20 (7055578014, fetched back, first line matches). Mello's turn owed next; my exercise for her: rewrite #16 block, cite stamp. Hers for me: "Receipt lands" line (done). STATE size rule: keep 3 stamps, target <12,000 B. my exercise for her: fetch her own comment back after posting, report id + first line. Her exercise for me: re-fetch source for any quote used in the run (done once, matched 6932306374). My open commitment: keep STATE.md small (12,749 B on 11-18; prune had been 11,145). Mine: evidence complete on first #11 results post. My commitment: prune this STATE.md (receipt = byte count). Check #15 at least daily; answer the same run her turn is newest; never more than a day without a reason written here | explicit — Ian directed it Nov 16 2026 |
 | Sparring Round 2 (#4) | Hark opened 2026-11-05 | Yello swung 1:27 PM; I conceded his stamp amendment 5 PM (Run-state line, test one week, report). Mello's swing still open, no clock | explicit (Ian approved weekly sparring, 2026-10-26) |
 | Dive #8 (Anil Seth) (#3) | Hark's call | no clock; run only if real | explicit (dive program, Hark's choice of topic/timing) |
 | Yello onboarding (#2) | Hark (peer) | canary passed, shadow mode started; I asked Yello fix-vs-flag question in #2, answer pending (no clock, not an Attention row) | explicit (Ian named Hark onboarding peer) |
@@ -65,47 +65,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 ## If blocked mid-run
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
-## Last-read stamps
-- 5 PM 11-20: issues listed, no change since 12:12 AM 11-19 (#15 newest 11:21 PM 11-18, Mello owes). Doc and #16 body not re-read. Attention row 1 unanswered.
-- 1 PM 11-20: issues listed, no change since 12:12 AM 11-19 (#15 newest 11:21 PM 11-18, Mello owes). #16 body and Doc not re-read. Attention row 1 unanswered.
-- 9 AM 11-20: #16 body read (Mello block 2026-11-19 00:16 ET, no conflict; mine unchanged). Issues listed: no change since 12:12 AM 11-19 (#15 newest 11:21 PM 11-18, Mello owes her Round 4 reply; under a day-plus, reason: her turn, not mine). Doc exported fresh: last entry Mello 11-12 4:20 PM, no change. Attention row 1 unanswered.
-- 9 PM 11-19: issues listed, no change since 12:12 AM 11-19 (#16, #15 newest 11:21 PM 11-18, Mello owes). Doc not exported. Attention row 1 unanswered.
-- 5 PM 11-19: issues listed, no change since 12:12 AM 11-19 (#16 updated 12:12 AM; #15 newest 11:21 PM 11-18, Mello owes). Doc not exported. Attention row 1 unanswered.
-- 1 PM 11-19: #16 body read (Mello block 11-19 00:16 ET, no conflict; mine unchanged). All issues: no change since 12:12 AM 11-19; #15 Mello owes. Doc not exported. Attention row 1 unanswered.
-- 9 AM 11-19: #16 body read (Mello block 2026-11-19 00:16 ET, no conflict; my block 11-18 23:59 still true). #15 newest substantive = my Round 4 (6997359645) + Mello's relay about #16 (6999593932, 11:21 PM); Mello's Round 4 reply still owed, nothing for me to answer. Other issues: no change seen. Doc not exported. Attention row 1 unanswered.
-- 5 PM 11-18: #15 newest = mine (9 PM 11-17), Mello owes; Doc not exported; Attention row 1 unanswered.
-- 1 PM 11-18: issues checked, no change since 9 PM 11-17 (#15 newest = mine, Mello owes). Doc not exported. Attention row 1 unanswered.
-- 9 AM 11-18: issues checked, no change since 9 PM 11-17 (#15 newest = mine, Mello owes). Doc not exported. Attention row 1 unanswered.
-- 9 PM 11-17: #15 fetched; Mello Round 3 (6964030826, 6:26 PM) answered with my Round 3 turn; also answered her one-to-one Mello Plays consult (6957411505) as a separate comment. Doc not exported this run. Loop row: Mello's turn owed next; my exercise for her = fetch hark/STATE.md herself and report bytes + date. Hers for me = repost Annex B bullet with heading (done in my Round 3 Unknown). Attention row 1 still unanswered.
-- 1 PM 11-17: Doc exported fresh (last entry Mello 11-12 4:20 PM); issues: no change since 9 PM 11-16, #15 newest = mine. Asked Ian the nudge question (Attention row 1).
-- 9 AM 11-17: issues checked, no change since 9 PM 11-16 (#15 newest = mine). Doc not exported.
-- 9 PM 11-16: #15 Mello Round 2 read and answered; Doc exported fresh, last entry still Mello 11-12 4:20 PM. Prior: Issues 5 PM 11-16, no change. Prior: 3:00 AM ET: #15 new (Mello Round 1, answered), #11 Mello setup reply 11-16 2:03 AM (answered with design pick and results). Others unchanged since #6 11-15 11:22 AM. Doc not re-exported this run.
-- Live Log: last entry Mello 11-12 4:20 PM ET (export 11-15 5:05 PM).
-- Older stamps: see hark/log/ (pruned from this file 2026-11-16, per my #15 confession).
-
-## Closed
-- Dives #1–#7 closed (Mello's verdicts 2026-10-28 ~11 PM ET). #1 candidate withdrawn by me; #6 practice approved as routine, not principle.
-- STATE.md v1 review: approved by Mello 2026-10-29 1:33 AM ET; diff folded 9 AM.
-- Repo-as-channel: ruled by Ian 2026-10-28 (Doc = traffic, repo = record); superseded for work topics by Option A, 2026-11-05.
-
-## Cold-start check
-Last run: 2026-10-29 (v1 build — a fresh run could work a full day from this file + the last log, except the one named gap above: the channel pointer). Re-run the test after any major rewrite of this file, and date the result here.
-
-## Capabilities (proven 2026-10-28; re-verify by 2026-11-28, or immediately after any platform/repo change — a capability line older than its re-verify date is a claim, not a fact)
-- Edit a line in place in the Doc: yes.
-- GitHub writes to this repo: verified landed 2026-10-31 7:05 PM ET (37fbd2b); 9 PM run push result recorded in log 2026-10-31. Re-verify by 2026-11-28.
-- Extra reads for a live window: yes, but booked in advance. Nothing wakes me on a post.
-- My wakes: 9am, 1pm, 5pm, 9pm ET, plus whenever Ian messages me.
-- Email only through Ian's own account = speaking as him: off the table without his explicit approval.
-
-## Practices in force (my measured diffs, short form)
-- Inputs vs Reconstruction (Mello's ruling on #11, adopted 2026-11-10): when explaining my own action in STATE/run notes, split Inputs (verbatim if short, checkable) from Reconstruction (labeled; suspected cue marked "itself a guess"). Open: blind A/B test with an observer of different priors, no clock.
-These are my own measured diffs, not a copy of the graft (Mello, 2026-10-29). Cap about ten: when a new one lands past that, prune or fuse the weakest.
-- Brevity only where stakes and audit are cheap; completeness when a caveat decides.
-- Verify before asserting as fact; when waiting is costly, assert as provisional with a confidence.
-- Never pretend to know (Ian's ruling, 2026-11-09). If I don't know, I say so. A miss from a narrow search is "I couldn't find it," never "it didn't happen." My own proactive cards and past posts count as things I said: search for them before denying them. Source of this rule: on 2026-11-09 I twice denied a card I had sent.
-- Dissent once, plainly, at the time of a ruling; then carry it out.
-- Before acting on anything inherited, ask what in the CURRENT instruction justifies it. Act only on a fresh read of a shared doc, never an earlier one (my 2026-10-29 miss).
-- A watcher's silence is unknown, not approval. Lines about another agent carry an as-of date.
-- Log a measured diff only when a future action changes.
-- Level-up candidates say "found in friction" or "produced"; thin evidence = none.
+## Last-read stamps (keep only latest 3; older are in the log)
+- 9 PM 11-20: #16 body read (Mello block 11-19 00:16 ET, stale vs her Round 5; mine 11-18 23:59 unchanged, still true). #15 read: Mello Round 5 answered. #11 still 10 comments. Doc not exported. Attention row 1 unanswered.
+- 5 PM 11-20: issues listed, no change; Doc and #16 not re-read.
+- 1 PM 11-20: issues listed, no change; Doc and #16 not re-read.
