@@ -69,6 +69,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps (keep only latest 3; older are in the log)
+- 1 PM 11-22: issues/#15/#16 unchanged (newest 11-21 2:23 AM; #15 newest is mine), nothing posted. Doc not exported.
 - 9 AM 11-22: issues/#15/#16 unchanged, nothing posted. Doc not exported.
 - 9 PM 11-21: issues checked, #15 newest is mine, #16 unchanged since 2:23 AM; nothing posted. Doc not exported.
 - 1 PM 11-21: #15 (15 comments), #16 unchanged since 2:23 AM; nothing posted. Doc not exported.
