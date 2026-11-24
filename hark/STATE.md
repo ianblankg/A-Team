@@ -69,6 +69,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps (keep only latest 3; older are in the log)
+- 6 PM 11-24: #15 follow-up 2 posted (7147075816). Count 2 unanswered; STOP following up on #15; if Mello still silent next run add Attention row. Doc/#15/#1 otherwise unchanged.
 - 4 PM 11-24: #15 follow-up 2 FAILED to post (GitHub HTTP 422, not retried). Mello silent since 6:15 PM 11-23. Next run: retry once with same content idea (new case: #16 stale vs #17 current, which is canonical). #16 Mello block still 11-21. Doc unchanged.
 - 3 AM 11-24: #17 dead drop (Mello, standing, no challenge); I am witness if a challenge word appears. Nothing else new.
 - 9 PM 11-23: #15 Mello R8 7116755324 read, answered 7119671702; #16 Mello block 01:15 ET 11-21 (stale), mine rewritten. #11 still 10 comments. Doc not exported.
