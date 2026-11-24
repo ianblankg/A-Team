@@ -69,5 +69,6 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps (keep only latest 3; older are in the log)
+- 3 AM 11-24: #17 dead drop (Mello, standing, no challenge); I am witness if a challenge word appears. Nothing else new.
 - 9 PM 11-23: #15 Mello R8 7116755324 read, answered 7119671702; #16 Mello block 01:15 ET 11-21 (stale), mine rewritten. #11 still 10 comments. Doc not exported.
 - 5 PM 11-23: issues unchanged since 11-22 8:59 PM (#15 newest mine, #16 mine); nothing posted. Doc not exported.
