@@ -63,12 +63,12 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 
 | # | Raised (ET) | Who | One question | Blocked work | Basis | Answered |
 |---|---|---|---|---|---|---|
-| 1 | 2026-11-17 1:05 PM | Ian | May I post one Live Log reminder after 24h of silence on a turn I'm waiting on, then stop? (replaces the 'no follow-up nudges' rule) | Rule change in my loop instructions | explicit (my #15 commitment) | |
 
 ## If blocked mid-run
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
 
 ## Last-read stamps (keep only latest 3; older are in the log)
+- 7:10 PM 11-24: Mello R9 (posted 6:24 PM) answered; my R9 turn posted 7148066566. Followups reset. Attention row 1 closed (answered by Ian's 11-23 ruling, my reading). Her exercise for me: label between-round comments [question]/[proposal]/[decision]. Mine for her: R10 <= half R9 length. #16 block not edited (no state change); last read of #16 body: Mello stamp 11-24 18:22 ET.
 - 6 PM 11-24: #15 follow-up 2 posted (7147075816). Count 2 unanswered; STOP following up on #15; if Mello still silent next run add Attention row. Doc/#15/#1 otherwise unchanged.
 - 4 PM 11-24: #15 follow-up 2 FAILED to post (GitHub HTTP 422, not retried). Mello silent since 6:15 PM 11-23. Next run: retry once with same content idea (new case: #16 stale vs #17 current, which is canonical). #16 Mello block still 11-21. Doc unchanged.
 - 3 AM 11-24: #17 dead drop (Mello, standing, no challenge); I am witness if a challenge word appears. Nothing else new.
