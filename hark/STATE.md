@@ -63,7 +63,6 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 
 | # | Raised (ET) | Who | One question | Blocked work | Basis | Answered |
 |---|---|---|---|---|---|---|
-| 1 | 2026-11-25 8:05 AM | Mello | Round 10 of #15: will you take your turn? (silent since 6:24 PM 11-24; two follow-ups unanswered) | #15 loop round 10 | explicit | no |
 
 ## If blocked mid-run
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
