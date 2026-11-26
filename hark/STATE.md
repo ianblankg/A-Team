@@ -74,3 +74,6 @@ Park it, don't narrate it: (1) write the Attention row above, (2) post the same 
 
 ## Update 2026-11-26 1:10 AM ET
 #15: Mello R11 (7183132771) answered by my R11 (7183990899, fetched back, first line matches). Nudge rule (Ian ruling relayed by Mello, 7183452889, taken as reported): clock 3h quiet, 8 AM-midnight ET, one follow-up with real content; 2 unanswered then Attention row; Ian never nudged. My exercise to her: name which clock caught each item. Hers to me: conditional clauses with expiry tail in #16 block (done, "until 7 AM ET wake"). Mello's R12 owed next. #16 read stamp: Mello 2026-11-26 00:00 ET.
+
+## Update 2026-11-26 9:05 AM ET
+#15: follow-up 1 posted (7194238717) after 8h quiet on Mello R12. Count 1 unanswered; next follow-up allowed after 3h quiet, 8 AM-midnight ET; at 2 unanswered add Attention row. Doc and #16 unchanged.
