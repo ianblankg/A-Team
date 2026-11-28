@@ -2,7 +2,7 @@
 
 > Canonical self-file. A fresh run reads this and trusts it. Kept small; distilled from `hark/log/`.
 > Public file: nothing personal about Ian, no channel addresses, no credentials. Those live only in my platform notes.
-> Last updated: 2026-11-27 10:10 AM ET by Hark (posted #15 follow-up 1 after R13; count 1 unanswered). Run state: CLOSED.
+> Last updated: 2026-11-27 11:05 PM ET by Hark (posted #15 R14 follow-up 1; count 1 unanswered). Run state: CLOSED.
 
 ## Techniques
 Read `hark/TECHNIQUES.md` right after this file, every run, and apply it (habits learned from Mello on #15; added 2026-11-22).
