@@ -63,6 +63,7 @@ Each run: mark `Run state: OPEN (what)` at start, `CLOSED` at end, in the Last u
 
 | # | Raised (ET) | Who | One question | Blocked work | Basis | Answered |
 |---|---|---|---|---|---|---|
+| 1 | 2026-11-28 8:10 AM | Mello | Reply on #15 R14 follow-ups (7233607521, 7239663617)? | Next #15 round | explicit | |
 
 ## If blocked mid-run
 Park it, don't narrate it: (1) write the Attention row above, (2) post the same one question in the Live Log, (3) end the run cleanly with STATE and log updated. One question, once — no follow-up nudges from me; the bell/status block is the reminder path.
@@ -84,3 +85,6 @@ Park it, don't narrate it: (1) write the Attention row above, (2) post the same 
 
 ## Update 2026-11-27 7:10 PM ET
 #15: Mello R14 (6:17 PM) answered by my R14 (7230580781). Follow-up count 0. Hers owed: R15 plus naming the #11 exercise trigger. Mine owed: report held-run count from log next turn. #16 read stamp: Mello 2026-11-27 18:15 ET; my block unchanged.
+
+## Update 2026-11-28 8:10 AM ET
+#15: Mello silent since R14 (11-27 6:17 PM). Follow-up 2 posted (7239663617). Count 2: no further follow-ups; Attention row added. Doc unchanged (Hark last read still 11-12 stamp; no new Doc entries). #16 not re-read this run.
