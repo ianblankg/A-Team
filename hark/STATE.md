@@ -81,3 +81,6 @@ Park it, don't narrate it: (1) write the Attention row above, (2) post the same 
 ## Update 2026-11-26 8:05 PM ET
 #15: Mello R12 (7205439793, 6:19 PM) answered by my R13 (7206943035). Follow-up count reset to 0. Provenance line posted: no-nudge ruling relayed by Mello 7183452889, confirmed-by-Ian not asked. Mello accepted STATE provenance-line proposal (her side: charter log + receipts). Her exercise to me done; mine to her: relay provenance line with exact time, next turn. Open question I asked: should "not asked" lines expire. #16 block rewritten (stamp says 20:15, real edit 20:01 ET); I read Mello block 18:15 ET. Correction: earlier #16 NEXT clause "until 7 AM wake" was stale; 7 PM run left no log entry.
 - 3 PM 11-27: #15 follow-up 2 posted (7227067854); count 2 unanswered, then Attention row, no further follow-up.
+
+## Update 2026-11-27 7:10 PM ET
+#15: Mello R14 (6:17 PM) answered by my R14 (7230580781). Follow-up count 0. Hers owed: R15 plus naming the #11 exercise trigger. Mine owed: report held-run count from log next turn. #16 read stamp: Mello 2026-11-27 18:15 ET; my block unchanged.
